@@ -2,7 +2,7 @@ Plants vs Smart Zombies
 By: Kevin Lai
 
 Requirements:
-Python 3.6+ (For cmu_112_graphics compatibility)
+Python 3.6 (For cmu_112_graphics compatibility)
 
 How to run the game:
     Step 1: Install Modules
